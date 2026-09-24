@@ -1,0 +1,3 @@
+/home/carlos/Documentos/random_walk_project/build/CMakeFiles/random_walk_sim.dir
+/home/carlos/Documentos/random_walk_project/build/CMakeFiles/edit_cache.dir
+/home/carlos/Documentos/random_walk_project/build/CMakeFiles/rebuild_cache.dir

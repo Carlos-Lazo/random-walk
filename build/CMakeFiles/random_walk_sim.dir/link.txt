@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/random_walk_sim.dir/src/main.cpp.o CMakeFiles/random_walk_sim.dir/src/random_walk_1d.cpp.o CMakeFiles/random_walk_sim.dir/src/random_walk_2d.cpp.o -o random_walk_sim  /usr/lib/gcc/x86_64-linux-gnu/12/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
